@@ -1,7 +1,6 @@
 ## JavaScript Snippet Pack for Visual Studio Code
 
-Download this extension from the
-[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-javascript-snippet-pack)
+Download this extension from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-javascript-snippet-pack)
 
 -----------------------------------------
 
