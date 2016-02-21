@@ -7,7 +7,7 @@ test/**
 .gitignore
 tsconfig.json
 vsc-extension-quickstart.md
-art/**
+art/js-icon.psd
 .travis.yml
 test-data/**
 coverage/**
