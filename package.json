@@ -15,9 +15,9 @@
     "homepage": "https://github.com/akamud/vscode-javascript-snippet-pack/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/akamud/vscode-javascript-snippet-pack.git/blob/master/README.md"
+        "url": "https://github.com/akamud/vscode-javascript-snippet-pack/blob/master/README.md"
     },
-    "version": "0.1.4",
+    "version": "0.1.5",
     "engines": { "vscode": "^0.11.x" },
     "categories": ["Snippets"],
     "keywords": [
