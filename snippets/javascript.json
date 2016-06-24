@@ -300,7 +300,7 @@
     "Arrow function": {
         "prefix": "arrow",
         "body": [
-            "($1) => {$2};"
+            "($1) => {$2}"
         ],
         "description": "Code snippet for 'arrow function'"
     }
