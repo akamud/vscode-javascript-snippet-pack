@@ -296,5 +296,12 @@
             "prompt('${1:msg}');"
         ],
         "description": "Code snippet for 'prompt'"
+    },
+    "Arrow function": {
+        "prefix": "arrow",
+        "body": [
+            "($1) => {$2};"
+        ],
+        "description": "Code snippet for 'arrow function'"
     }
 }
